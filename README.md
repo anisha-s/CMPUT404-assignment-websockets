@@ -59,3 +59,10 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+* Anisha Sethumadhavan
+
+References
+===========
+Abram Hindle, 7 Jan 2022(last updated),Apache 2, https://github.com/uofa-cmput404/cmput404-slides/tree/master/examples/WebSocketsExamples  
+
+Alvin Ogwu(12 Dec 2019) and Gander( edited 12 Dec 2019), CC BY-SA 4.0, https://stackoverflow.com/a/59304079  
